@@ -29,7 +29,7 @@ demo@gmail.com
 **Password**
 
 ```
-demo123
+Demo123
 ```
 
 > Alternatively, you can register a new account directly from the application.
